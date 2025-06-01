@@ -10,6 +10,7 @@ This lab demonstrates how to build and deploy two Azure Function Apps using Pyth
 
 ## 📁 Project Structure
 
+```
 lab1-8917/
 │
 ├── AzureFunctionsToQueue/              
@@ -31,7 +32,7 @@ lab1-8917/
 │   └── .funcignore                     
 │
 └── README.md                            
-
+```
 
 ---
 
